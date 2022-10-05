@@ -1,8 +1,8 @@
 # [NeurIPS 2022] PerfectDou: Dominating DouDizhu with Perfect Information Distillation
 The official repo for the NeurIPS 2022 paper <PerfectDou: Dominating DouDizhu with Perfect Information Distillation>.
 
-**Note: We only realease our pretrained model and the evaluation code. The training code is currently unavailable since a distributed system was used. We will inform you at the first time once we decide to open source our training code.**
-  
+**Note: We only realease our pretrained model and the evaluation code. The training code is currently unavailable since a distributed system was used. The codes for calculating left hands and for feature engineering are provided as shared library (i.e., *.so file), the details of these two modules could be found in the paper. We will inform you at the first time once we decide to open source these codes.**
+
 ## An online demo to play with! Have fun!
 * Online Demo: [https://outer-perfectdou-demo-gzailab.nie.netease.com](https://outer-perfectdou-demo-gzailab.nie.netease.com)
 

@@ -2,7 +2,6 @@ from collections import Counter
 import numpy as np
 
 from perfectdou.env.game import GameEnv
-from .encode import encode_obs_landlord_ygyyds, encode_obs_peasant_ygyyds
 
 Card2Column = {3: 0, 4: 1, 5: 2, 6: 3, 7: 4, 8: 5, 9: 6, 10: 7,
                11: 8, 12: 9, 13: 10, 14: 11, 17: 12}
